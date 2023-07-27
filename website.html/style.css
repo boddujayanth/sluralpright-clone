@@ -1,0 +1,38 @@
+*{
+    background-image:linear-gradient(rgba(0,0,0,.30),rgba(0,0,0,.30)), url("https://e0.pxfuel.com/wallpapers/393/237/desktop-wallpaper-facebook-cover-grey-abstract-3440x1440-abstract.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color:white;
+}
+button:hover{
+    background-color: #f08804;
+    border: 2px solid white;
+    background:#00b894;
+    border-radius: 10px;
+    
+}
+input{
+   border: 1px solid white ;
+}
+fieldset
+{
+    height:300px;
+    width:25%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+  #main-footer {
+    color: #ccc;
+    text-align: center;
+    font-size: 0.9rem;
+    max-width: 80%;
+    padding-top: 8rem;
+    margin-left: 100px;
+  }
+  #main-footer a {
+    color: #f96816;
+    text-decoration: underline;
+  }
